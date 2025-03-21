@@ -16,7 +16,7 @@ I make videos on YouTube. These are typically involving the technology I use, th
 ## Where to find me:
 - Mastodon: [@Trafotin@vt.social](https://vt.social/@trafotin)
 - Bluesky: [@trafotin.com](https://bsky.app/profile/trafotin.com)
-- X (Formerly) Twitter: [@Trafotin](https://x.com/trafotin)
+- X (Formerly Twitter): [@Trafotin](https://x.com/trafotin)
 - GitLab: https://gitlab.com/trafotin
 - GitHub: https://github.com/trafotin
 - I have a Discord, but you must contact me on another platform. I don't accept friend requests or use it outside of professional purposes.
